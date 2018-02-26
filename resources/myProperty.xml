@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+    <entry key="database.user">tool_pubmed</entry>
+    <entry key="database.password">T1g3r5!</entry>
+    <entry key="database.name">var_VarImpact</entry> 
+    <entry key="database.host">jdbc:mysql://db2.hpc.mssm.edu:3306/</entry>
+    <entry key="database.driver">com.mysql.jdbc.Driver</entry>
+
+    <!-- Normalization specific tables -->
+    <entry key="database.hgvs_view">seth_hgvs</entry>
+    <entry key="database.PSM">seth_PSM</entry>
+    <entry key="database.uniprot">seth_uniprot</entry>
+    <entry key="database.transcript">view_seth_transcripts</entry>
+
+
+    <entry key="database.geneTable">gnat_genes</entry>
+    <entry key="database.gene2pubmed">kb_NCBI.gene2pubmed</entry> 
+    
+<!--    <entry key="database.SNPTable">mutations</entry> -->
+
+</properties>

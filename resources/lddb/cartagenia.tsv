@@ -1,0 +1,473 @@
+LDDB:32.04.02 	Mental retardation / developmental delay 	Includes mental handicap, learning disabled, but not dementia. It is not progressive and the delay should be present from birth.
+LDDB:32.06.00 	SEIZURES, general abnormalities 	SEIZURES, general abnormalities
+LDDB:14.01.07 	Speech delay 	Speech delay is common in developmental delay/mental retardation of all types. Use this latter feature rather than speech delay if the delay is more global.
+LDDB:32.08.05 	Microcephaly 	A reduction in head circumference of greater than 2SD below the mean. Parental measurements must be taken into account.
+LDDB:32.05.00 	BEHAVIOURAL PROBLEMS, general abnormalities 	BEHAVIOURAL PROBLEMS, general abnormalities
+LDDB:32.05.01 	Autism / autistic behaviour 	Severe impairment in social relationships, verbal and to some extent non-verbal communication, ritualistic and compulsive behaviour and defects of attention.
+LDDB:02.01.00 	Short stature, general abnormalities 	If this category is chosen all forms of 'short stature' are selected
+LDDB:07.01.05 	Hypertelorism 	Wide-set eyes. Measured as an interpupillary distance greater than 2SD of the mean.
+LDDB:07.13.08 	Strabismus 	Squint. Check cranial nerves for III, IV and VI nerve palsies. In some places (UK) it might be referred to by the patient as a 'cast'.
+LDDB:06.01.08 	Low-set ears 	The topmost (superior) insertion of the ear is below an imaginary line drawn horizontally between the canthi of the eyes. The head must be in an upright position. A much over-diagnosed sign.
+LDDB:32.06.03 	Tonic / clonic (grand-mal) 	There is a loss of consciousness, followed by tonic contraction of all muscle groups, changing after 30-60 seconds to intermittent clonic jerking and then flaccidity.
+HP:0001252 	Muscular hypotonia 	Muscular hypotonia is an abnormally low muscle tone (the amount of tension or resistance to movement in a muscle), often involving reduced muscle strength. Hypotonia is characterized by a diminished resistance to passive stretching.
+LDDB:08.06.02 	Epicanthic folds 	These are folds which extend from the upper eyelid towards the medial canthi. They are common in neonates (epicanthus palpebralis) and Asians (epicanthus tarsalis). This entity includes epicanthus inversus which is an epicanthus extending from the medial canthi, downwards and laterally.
+LDDB:32.04.05 	Hypotonia (non-myopathic) 	Floppiness not due to muscle disease or peripheral nerve disease, but whose origin is central (mostly in the brain).
+LDDB:32.05.11 	Short attention span 	The inability to concentrate for long on one activity before losing interest and moving on to the next.
+LDDB:08.02.04 	Long / prominent eyelashes 	Trichomegaly. Unsually long lashes which turn up.
+LDDB:08.05.04 	Palpebral fissures slant up 	A 'mongoloid slant' to the palpebral fissure.
+LDDB:17.05.00 	Heart, general abnormalities 	Heart, general abnormalities
+LDDB:23.03.04 	Single palmar crease 	Note that this might be present unilaterally in 4% of the normal population and in a smaller percentage bilaterally.
+LDDB:32.32.16 	Agenesis / hypoplasia of corpus callosum 	The 8cm long interhemispheric structure joining the two halves of the brain. Includes absence or small.
+LDDB:34.03.04 	Patchy pigment of skin / cafe au lait spots 	These are large (>2.5cm in adults), light brown pigmented areas. In neurofibromatosis they have a smooth outline, but they might be ragged, as in McCune-Albright syndrome.
+LDDB:06.01.12 	Prominent ears 	Most ears that appear prominent are large and rotated forwards (anteverted) - like Prince Charles.
+LDDB:09.03.01 	Depressed / flat nasal bridge 	The bridge is that part of the nose situated between the eyes. It might be difficult to assess in infancy when it is normally quite flat. If it remains so, or is particularly flat, use this category
+LDDB:11.04.05 	Thin upper lip 	A pencil-line upper lip
+LDDB:12.04.03 	High palate 	A high, often gothic shaped palate, in which it is difficult to see the top.
+LDDB:32.25.00 	EEG, general abnormalities 	EEG, general abnormalities
+LDDB:05.02.01 	Low frontal hairline 	The frontal hairline extends on to and down, the forehead.
+LDDB:09.03.04 	Wide nasal bridge 	That portion of the nose situated between the eyes (the bridge) seems wide.
+LDDB:32.05.04 	Aggressive behaviour 	Combative behaviour towards others and self. Might occur intermittently in an otherwise placid child, or be continuous and become a major handling problem.
+LDDB:32.08.02 	Brachycephaly 	A short head from back to front. If there is a craniosynostosis, it is mostly bi-coronal.
+LDDB:32.16.00 	ATAXIA, general abnormalities 	ATAXIA, general abnormalities
+LDDB:06.01.07 	Large ears 	These are measured from top to bottom. Strictly speaking they should be above the 97th centile on the chart. Note that ears get larger with age.
+LDDB:20.03.12 	Cryptorchid testes 	Testes that have not descended into the scrotum (an empty scrotum).
+LDDB:32.08.06 	Plagiocephaly / asymmetrical skull 	An asymmetrical skull shape. Often, but not always, caused by unilateral fusion or one coronal suture
+LDDB:32.09.05 	Fontanelles, delayed closure / large 	The anterior fontanelle is usually closed by 18 months.
+HP:0001250 	Seizures 	Seizures are an intermittent `abnormality of the central nervous system` (FMA:HP:0002011) due to a sudden, excessive, disorderly discharge of cerebral neurons and characterized clinically by some combination of disturbance of sensation, loss of consciousness, impairment of psychic function, or convulsive movements. The term epilepsy is used to describe chronic, recurrent seizures.
+LDDB:32.32.07 	Hydrocephalus / large ventricles, non-specific 	Increase in ventricular size. If not gross, use with caution.
+LDDB:02.02.00 	Tall stature, general abnormalities 	If this category is selected all forms of 'tallness' are chosen.
+LDDB:05.01.00 	Forehead, prominent etc., general abnormalities 	Use when you want to incorporate all the subdivisions listed below.
+LDDB:10.01.15 	Thin / long face 	Thin from side to side and long from top to bottom.
+LDDB:12.04.01 	Cleft palate 	A cleft (midline or otherwise) of the bony or soft roof of the oral cavity. Includes all shapes. If there is a cleft of the lip as well, use both in separate boxes.
+LDDB:17.01.04 	Pectus excavatum 	Depression deformity of the sternum and anterior chest wall..
+LDDB:17.07.01 	Hypoplastic / inverted / absent nipples 	Also called athelia.
+HP:0001622 	Premature birth 	The birth of a baby of less than 37 weeks of gestational age.
+HP:0002260 	Craniofacial dysmorphism 	Craniofacial dysmorphism
+LDDB:05.01.03 	Prominent forehead / frontal bossing 	The term bossing means a protuberance, or round knob. A bossed forehead mostly has two prominences, divided by a shallow groove. For this feature any prominence will do (if not familial).
+LDDB:06.01.06 	Dysplastic ears 	A malformed ear. A small ear (microtia) might be dysplastic in which case use both in the same box as either/or.
+LDDB:07.05.05 	Microphthalmia 	"Defined as an ultrasonic measurement of axial length of less than 19mm in a child of 1 year, and less than 21mm in an adult (minus 2SD). Dysmorphologists usually diagnose this by inspection (""eyeballing!!"")"
+LDDB:07.13.05 	Myopia 	Significant short-sightedness. Take family history because it might be unrelated to the syndrome under consideration.
+LDDB:08.03.07 	Ptosis of eyelids 	Congenital or acquired. See elsewhere for III nerve palsy.
+LDDB:10.01.07 	Flat face 	There are 3 confusing features. 1) Flat face 2) Mid facial hypoplasia 3) Malar region flat. Tend to use together in same box. The term 'dished out' face is also used in the literature.
+LDDB:10.01.10 	Mid-face hypoplasia 	Confusion over three terms used. 1) Mid-face hypoplasia 2) Flat face 3) Malar region flat. Use together in same box.
+LDDB:10.05.05 	Small mandible / micrognathia 	A subjective impression of a small jaw. Difficult in infancy and early childhood. Family background must be taken into account. The jaw often grows 'out' with age.
+LDDB:13.01.08 	Large / prominent teeth 	Also includes taurodontia (this includes gigantic roots as seen on X-rays). Also includes prominent central incisors.
+LDDB:17.05.27 	Ventricular septal defect 	Includes perimembranous (80%), muscular (5-20%), outlet (just below the pulmonary valve) and inlet (posterior and inferior to perimembranous defect). Don't be frightened to use 'Heart - general' as different defects even occur in the same family.
+LDDB:17.07.03 	Wide-spaced nipples 	They are usually placed on the anterior axillary line and wide-spaced implies lateral displacement towards the mid-axilla.
+LDDB:26.05.09 	Syndactyly 2-3 of toes 	Webbing of toes 2 and 3. Common in families, so use only if it isn't present in either parent.
+LDDB:32.06.04 	Absences (petit mal) 	There is mostly a brief loss of consciousness with little or no motor activity i.e. it is non-convulsive. Use in conjunction with the EEG entry 3-Hz spike and wave complexes.
+LDDB:32.08.04 	Macrocephaly 	A head circumference greater than 2 SD above the mean for age. Parental measurements must be taken into account.
+LDDB:32.19.07 	Hypotonia (myopathic) 	Floppiness including that due to muscle disease or peripheral nerve disease. The origin is mostly central nervous system.
+LDDB:01.02.02 	Generalized obesity 	An increase of bodily fat out of proportion to the family pattern, resulting in an increase of weight above the 97th centile for age.
+LDDB:01.03.02 	Low birthweight (< 3rd centile) 	Below the 3rd centile for gestational age.
+LDDB:07.13.01 	Vision, non-specific impairment 	It might be better to use Vision - general'.
+LDDB:08.01.08 	Synophrys 	Eyebrows that meet in the middle.. Not always pathological.
+LDDB:08.05.05 	Palpebral fissures slant down 	An 'anti-mongoloid' slant to the palpebral fissure, which is normally horizontal.
+LDDB:09.01.09 	Small / short nose 	Short from top to bottom. Measured from nasion to sub-nasion.
+LDDB:10.01.01 	Asymmetric face 	One side of the face is smaller or larger than the other. There are other codes if the asymmetry is more generalised. Use 'Find' and write 'asymmetry'.
+LDDB:11.01.05 	Microstomia 	A small mouth opening.
+LDDB:11.02.06 	Thin lower lip 	Mostly seen with thin upper lip, but use with discretion!
+LDDB:13.01.03 	Delayed tooth eruption / development 	Normal times are (for milk teeth). 6 months - lower central incisors. 7 months - upper central incisors. 8 months - upper lateral incisors. 9 months - lower lateral incisors. 1 year - first molars. 18 months - canines. 2 years second molars
+LDDB:26.01.09 	Club foot, varus 	One or both feet are in-turned from the ankle downwards. It might be fixed and structural, or postural.
+LDDB:29.01.12 	Recurrent infections 	In this context, often due to immune changes.
+LDDB:32.05.02 	Stereotopy 	Repetitive, purposeless, patterned and co-ordinated movements, like rocking, tongue protusion or hand wringing.
+LDDB:32.05.03 	Hyperactivity 	Overactive, non-stop, often purposeless behaviour, sometimes continuing to exhaustion of both patient and parents.
+LDDB:32.05.09 	Sleep disorders excl. apnoea 	Includes sleeping too much, or too little, movements during sleep, sleep walking etc.
+LDDB:32.05.15 	Enuresis 	Involuntary micturition , mostly during sleep (bed wetting), occuring in the absence of a specific underlying cause.
+LDDB:06.01.00 	External ears, general abnormalities 	A general category which incorporates all the categories under 'External ears general'.
+LDDB:06.01.14 	Simple ears 	"Ears without the normal ""geography"" especially in the triangular fossa between the helix and the crus of the anti-helix. The ear is often 'cup' shaped (smooth and uninteresting)."
+LDDB:09.01.01 	Broad base to nose. 	An increased distance between the alae nasi.
+LDDB:11.01.06 	Open mouth appearance 	The mouth droops open and tends to stay that way for long periods of time. Seen in profound hypotonia of any cause.
+LDDB:16.01.06 	Scoliosis 	A lateral curvature of the spine.
+LDDB:17.05.01 	Atrial septum defect 	Secundum ASD - the incomplete formation or incomplete fenestration of the septum primum covering the fossa ovalis. See elsewhere for septum primum defects.
+LDDB:18.01.07 	Feeding problems in infants 	A symptom rather than a sign!
+LDDB:18.01.14 	Omphalocele / exomphalos 	Results from the failure of the intestine to return to the body cavity during development. It is midline, at the point of insertion of the umbilical cord. The contents are enclosed in a membranous sac. Intestine, liver pancreas, spleen may be present in the sac.
+LDDB:20.03.04 	Hypospadias 	The urethral opening is on the underside of the penis.
+LDDB:21.03.06 	Horseshoe kidneys 	There is fusion in the midline (inferiorly) resulting in the horse-shoe shape. In lateral fusion one pelvicalyceal system, crosses the midline to drain a portion of both kidneys.
+LDDB:23.04.05 	Clinodactyly 	An incurving - often seen in little finger. It may, or may not, be important.
+LDDB:23.07.06 	Proximal placement of thumb 	The thumb seems short, but in essence it is inserted much too close to the radius (i.e., proximally).
+LDDB:24.01.09 	Small / hypoplastic / deepset nails 	Small, underdeveloped nails.
+LDDB:32.04.07 	Dysphasia, congenital 	An inability to formulate and express words.
+LDDB:32.06.02 	Infantile spasms 	Also called salaam attacks, these are flexion (or occasionally extension) spasms causing the child to flex forward and abduct and extend the arms.
+LDDB:32.06.09 	Febrile convulsion 	Occur between 3 months and 5 years and are triggered by a rising temperature. Most (but not all) are brief and uncomplicated.
+LDDB:32.10.01 	Flat occiput 	Flat at the back. Seen in floppy children who lie continuously on their back. And in lambdoid craniosynostosis (bilateral), in which most of the posterior fossa is under-developed..
+LDDB:32.31.08 	Cerebellar vermis hypoplasia / aplasia 	If there is generalised aplasia of the cerebellum add hemisphere (see below) in a separate box. The vermis is the ancient, midline structure of the cerebellum.
+LDDB:32.32.09 	Lissencephaly / pachygyria 	Lissencephaly means a smooth brain or agyria (an absence of fissures). The underlying defect is one of neuronal migration. Pachygyria is also a migration defect causing thickened and wide gyri. There is a separate entry 'neuronal migration defect' under 'Microscopic' for milder lesions and a separate entry for 'polymicrogyria'. Be flexible - use some, or all together.
+LDDB:34.01.05 	Hypohidrotic or dry skin 	This might be a clinical symptom. The sweat pores are best seen on the fingertips through a magnifying instrument with bright light (otoscope) when the lack of the normal glistening drops of fluid will be noted.
+HP:0000717 	Autism 	Autism is a neurodevelopmental disorder characterized by impaired social interaction and communication, and by restricted and repetitive behavior.
+HP:0001328 	Specific learning disability 	Impairment of certain skills such as reading or writing, coordination, self-control, or attention that interfere with the ability to learn. The impairment is not related to a global deficiency of intelligence.
+HP:0001719 	Double outlet right ventricle 	Double outlet right ventricle (DORV) is a type of ventriculoarterial connection in which both great vessels arise entirely or predominantly from the right ventricle.
+HP:0008947 	Infantile muscular hypotonia 	Muscular hypotonia (abnormally low muscle tone) manifesting in infancy.
+HP:0011097 	Epileptic spasms 	A sudden flexion, extension or mixed extension-flexion of predominantly proximal and truncal muscles which is usually more sustained than a myoclonic movement but not as sustained as a tonic seizure.
+HP:0011443 	Abnormality of coordination 	Abnormality of coordination
+LDDB:01.03.01 	Thin 	Difficult to judge when anyone is abnormally thin. Use with caution and take the family pattern into account.
+LDDB:04.02.05 	Coarse hair 	The hair feels on palpation unusually hard or rough.
+LDDB:06.01.09 	Posteriorly rotated ears 	Viewed with the head in an upright position, the ears are rotated backwards (posteriorly).
+LDDB:06.06.00 	Deafness, general abnormalities 	Any type of deafness. Useful when you are not sure.
+LDDB:07.13.06 	Nystagmus - see NEUROLOGY / NYSTAGMUS 	Nystagmus - see NEUROLOGY / NYSTAGMUS
+LDDB:08.01.09 	Thick eyebrows 	Mostly thick and bushy (as in one of the authors, MB). Not always pathological.
+LDDB:09.01.10 	Upturned nose 	An elevation of the tip of the nose.
+LDDB:10.01.12 	Round face 	Mostly seen in generalised obesity (use if present). A moon face.
+LDDB:11.04.01 	Cleft upper lip (non-midline) 	As in cleft lip and palate.
+LDDB:12.05.07 	Large tongue 	Macroglossia, as in Beckwith syndrome, due to an increase in bulk of the normal tongue tissue.
+LDDB:15.01.09 	Nuchal bleb / cystic hygroma of neck 	These are fluid filled cystic swellings, mostly at the back or side of the neck, but which might encircle the neck. They might have a single space, or be divided by septa into many chambers.
+LDDB:17.05.17 	Patent ductus arteriosus 	Closure occurs post-natally in two stages. Within 12 hours (after full-term), shortening, thickening and protrusion of the thickened intima and then within 2-3 weeks infolding of the endothelium etc. Isolated patency occurs in 1 in 2000 live births.
+LDDB:18.01.09 	Inguinal hernia 	The presence of abdominal viscera in the inguinal canal ( the open communication of the peritoneal cavity with the diverticulum known as the processus vaginalis (the inguinal canal).
+LDDB:18.01.10 	Umbilical hernia 	Differs from an omphalocele in that at most it contains a mid-gut loop but no viscera. Umbilical herniae are often seen in those of African origin, and are of no significance.
+LDDB:20.03.06 	Small penis (including micro) 	Be sure to differentiate from a concealed penis (concealed in fat). Less than 2cm at birth and less than 4cm before normal puberty.
+LDDB:21.03.07 	Hydronephrosis 	Fluid in, and expansion of, the renal pelvis.
+LDDB:23.04.03 	Brachydactyly 	Short fingers
+LDDB:23.04.08 	Hyper-mobile / extensible fingers 	They give the feeling that you can move them (even temporarily dislocate them) in all directions.
+LDDB:23.05.05 	Short / hypoplastic metacarpals 	Short and sometimes 'stubby'. The term brachymetaphalangy is used when both metacarpals and phlanges are short.
+LDDB:25.02.00 	Hip, general abnormalities 	Anything the matter with the hip.
+LDDB:26.05.05 	Over-riding toes (including clinodactyly) 	Bent, overlapping, curly toes.
+LDDB:26.05.07 	Sandal gap of toes 	An increased space between the first and second toes.
+LDDB:28.07.03 	Hypothyroidism / small / absent thyroid 	Mostly detected on neonatal screening.
+LDDB:31.01.04 	Joint laxity 	A commonly inherited, uncomplicated feature. Check both parents before using it in a patient with a possible syndrome.
+LDDB:32.01.02 	1-[12] months / onset 	Use with codes on both sides of this age range in the same box.
+LDDB:32.03.03 	Respiratory distress in neonate 	Excluding apnoea (see above). It might be necessary to use this with asphyxia (see above).
+LDDB:32.17.06 	Spasticity / brisk reflexes / Babinski 	Hyperactive tendon reflexes, often with increased tone and extensor plantar responses.
+LDDB:34.01.06 	Eczema / atopic dermatitis 	"Chronically recurrent erythema, scaling, vesicles and crusts). Eczema means ""boil over"". Atopic dermatitis is used synonymously and means ""not confined to one place""."
+LDDB:34.03.02 	Patchy depigmentation of skin 	Small or large (but discreet areas) of white depigmented skin.
+HP:0000076 	Vesicoureteral reflux 	Abnormal (retrograde) movement of urine from the bladder into ureters or kidneys related to inadequacy of the valvular mechanism at the ureterovesicular junction or other causes.
+HP:0000278 	Retrognathia 	An abnormality in which the `mandible` (FMA:52748) is `mislocalised posteriorly` (PATO:0001922).
+HP:0001561 	Polyhydramnios 	The presence of excess amniotic fluid in the uterus during pregnancy.
+HP:0001741 	Phimosis 	The male foreskin cannot be fully retracted from the head of the penis.
+HP:0002310 	Orofacial dyskinesia 	Orofacial dyskinesia
+HP:0007018 	Attention deficit hyperactivity disorder 	Attention deficit hyperactivity disorder (ADHD) manifests at age 2-3 years or by first grade at the latest. The main symptoms are distractibility, impulsivity, hyperactivity, and often trouble organizing tasks and projects, difficulty going to sleep, and social problems from being aggressive, loud, or impatient.
+HP:0008872 	Feeding difficulties in infancy 	Impaired feeding performance of an infant as manifested by difficulties such as weak and ineffective sucking, brief bursts of sucking, and falling asleep during sucking. There may be difficulties with chewing or maintaining attention.
+LDDB:01.02.00 	Obesity, general abnormalities 	If this feature is used all categories of 'obesity' will be chosen
+LDDB:02.01.01 	Short stature, proportionate 	Proportionate implies that despite the short stature the relationship between the trunk length and limb length has not altered.
+LDDB:05.01.02 	High frontal hairline 	Often seen in conjunction with 'bossed forehead'. If so use both features in the same box. The origin (roots) of the frontal hair seems posteriorly displaced.
+LDDB:05.01.06 	Wide forehead 	Broad from side to side.
+LDDB:05.02.00 	Forehead, small etc., general abnormalities 	A small forehead in its broadest meaning.
+LDDB:06.01.02 	Asymmetric ears 	A difference in size between the two sides. If one is significantly smaller it might be better to use microtia.
+LDDB:06.01.11 	Auricular tags 	These are pre-auricular hillocks, or nubbins of tissue. They are vestigeal remnants of the developing ear.
+LDDB:06.01.15 	Small ears / microtia 	Small normal looking ears, but used by some for small dysplastic ears. Use the two together in the same box if in doubt.
+LDDB:06.06.01 	Deafness, non-specific 	It might be better to use 'deafness general' to pick up all types.
+LDDB:06.06.02 	Deafness, conductive 	Used synonymously with middle ear deafness.
+LDDB:06.06.03 	Deafness, congenital 	Try to avoid this in favour of (mostly) sensori-neural deafness.
+LDDB:06.06.05 	Deafness, sensorineural 	The nerve itself is involved.
+LDDB:06.06.06 	Deafness, unilateral 	Use with caution as sensorineural or conductive deafness might be more appropriate.
+LDDB:06.08.05 	Uplift of ear lobule 	The lobule is tilted upwards rather than hanging down.
+LDDB:06.11.02 	Cochlear / saccular abnormalities 	Any abnormality seen mostly on imaging, or on electrophysiology.
+LDDB:07.01.03 	Deep-set eyes 	A subjective observation of eyes that seem sunken in the skull.
+LDDB:07.01.06 	Hypotelorism 	Eyes too closely set. Measured as an interpupillay distance less than 2SD of the mean.
+LDDB:07.07.01 	Cataract 	Lens opacities of all types
+LDDB:07.09.03 	Optic atrophy 	Pallor of the optic disk, with fewer than normal vessels on the surface. The pallor might initially be segmental (temporal) before becoming diffuse.
+LDDB:07.13.03 	Hypermetropia 	Long sighted. Might be incidental - ask family.
+LDDB:08.01.00 	Eyebrows, general abnormalities 	Anything wrong with the eyebrows.
+LDDB:08.01.03 	Sparse / decreased eyebrows 	Difficult to quantify. Sometimes seen in conjunction with sparse scalp hair.
+LDDB:08.05.03 	Short palpebral fissures 	The fissure is short in the horizontal plane i.e. from side to side.
+LDDB:09.05.01 	Anteverted nares 	The nostrils normally point slightly laterally. Anteverted nares point forwards, so that you can look directly into the nasal cavity.
+LDDB:10.01.00 	Face, general abnormalities 	This includes everything under face-general (click + to see what there is).
+LDDB:10.01.13 	Small face 	Small, but not triangular.
+LDDB:10.01.16 	Triangular face 	A broad forehead, and a small chin, with, the two sides of the triangle creating a small, delicate looking face. The head looks large (pseudo-hydrocephalus).
+LDDB:13.01.07 	Irregular or crowded teeth 	The normal symmetry of tooth eruption is distorted resulting in irregular positioning and crowding. Might be secondary to alterations in jaw structure (see under 'mouth/mandible').
+LDDB:15.01.03 	Low posterior / trident hairline 	A trident is a 3-pronged fish spear used by Neptune. A trident hairline has 3-forks pointing down the neck. Beware, it may be a normal feature.
+LDDB:15.01.05 	Short neck 	The head seems to sit directly on the shoulders (or closer than normal to the shoulders).
+LDDB:15.01.10 	Thick / broad neck 	A neck which seems overburdened with tissue.
+LDDB:16.03.02 	Beaked / wedged vertebrae 	The body of the vertebrae slopes forwards. It looks like a triangular wedge (from the side).
+LDDB:17.01.06 	Narrow thorax / funnel chest 	Narrow from side to side. If also hollowed out, use 'pectus excavatum' in same box with it.
+LDDB:17.01.11 	Pleural effusion / chylothorax 	The presence of fluid, including lipid-laden, milky chyle in the pleural cavity.
+LDDB:17.04.03 	Congenital hernia of diaphragm 	Posterior-lateral herniation (mostly through the foramen of Bochdalek) mostly without a membrane and often containing viscera.
+LDDB:17.05.05 	Atrio-ventricular septal defect 	Includes the term AV-canal defects and endocardial cushion defects. Occurs in 4-5% of congenital heart disease. It might be used with ASD and VSD or "Heart - general" in same box. Partial defects include primum ASD, inlet VSD defects, cleft of mitral leaflet and cleft septal tricuspid leaflet - so don't be too particular. There is a separate feature for "primum septal defects".
+LDDB:17.05.06 	Cardiomyopathy 	Includes hypertrophic and dilated cardiomyopathies.
+LDDB:17.05.14 	Duplicated / right aortic arch 	A right aortic arch is a single arch that crosses over the right mainstem bronchus and passes to the right of the trachea. Note that it occurs in many patients with Fallot (use together). In double or duplicated aortic arch, both right and left aotic arches are present (one might be hypoplastic). They form a vascular ring around the trachea and oesophagus. Use "'Heart-general" liberally.
+LDDB:17.05.20 	Pulmonary stenosis 	Includes valvular and supravalvular stenosis. Also includes peripheral pulmonary artery stenosis. Note that these lesions often occur with others. Be broad - use general features, or many individual features in the same box.
+LDDB:17.07.02 	Supernumerary nipples 	"Extra nipples in the ""milk line"". Seen both normally and in some syndromes (also called polythelia)"
+LDDB:18.01.03 	Constipation 	Sometimes a manifestation of Hirschprung disease, or secondary to gross hypotonia. Use with caution .
+LDDB:18.05.06 	Enlarged liver 	Use in conjunction (same box) as abnormal function, to increase the yield.
+LDDB:18.09.01 	Pyloric stenosis 	A tumour-like mass of pale muscle, 3-5cmm long, situated at the pylorus. It seems to derive from the circular layer of fibers.
+LDDB:20.03.07 	Early puberty in male 	Onset of puberty before 9 years.
+LDDB:21.03.00 	Kidneys, general abnormalities 	Any renal lesion.
+LDDB:21.03.02 	Multiple renal cysts 	In infantile polycystic disease the kidneys are enlarged. The renal cysts are visible on the surface and are formed by the ends of the ectatic collecting ducts. Do not use for 'cystic dysplastic' kidneys, or alternatively use with 'renal dysplasia' in the same box. In medullary cystic disease the cysts are mainly in the medulla. This is included here.
+LDDB:21.05.03 	Urethral stenosis / atresia 	This includes meatal stenosis and in males congenital strictures in the prostatic urethra. It includes urethral diaphragms,
+LDDB:23.04.18 	Thick fingers 	Thick, 'juicy', swollen-looking fingers - they may also be tapered.
+LDDB:23.06.07 	Short phalanges 	Use in same box as hypoplastic, as it might difficult to distinguish between the two.
+LDDB:23.07.03 	Broad thumbs 	A broad, spatulate and sometimes deviated thumb.
+LDDB:25.01.03 	Asymmetric lower limbs 	Usually one limb is smaller than the other. There is a separate feature for 'hypertrophy of lower limb'
+LDDB:25.05.03 	Genu valgum 	Also called knock knees. The child stands with knees together and feet apart.
+LDDB:26.01.00 	Feet, general abnormalities 	Anything wrong with the feet.
+LDDB:26.01.03 	Abnormal / deep plantar creases 	There are deep furrows on the sole, often between the big and second toes or on the foot pad.
+LDDB:26.01.12 	Long feet 	Long for age, mostly as judged by shoe size!
+LDDB:26.01.13 	Narrow feet 	Often in conjunction with long feet. Narrow from side to side.
+LDDB:28.03.02 	Hypoglycaemia 	Less than 2.2mmol/l in the older child, and less than 2.8mmol/l in the well neonate.
+LDDB:32.03.02 	Apnoeic attacks in neonate 	"Attacks of ""stopping breathing""."
+LDDB:32.04.01 	Abnormality in consciousness / coma / lethargy 	From failure to respond spontaneously, or on command, to failure to respond to pain etc.
+LDDB:32.06.14 	Tonic seizures 	The seizure consists of tonic contractions without proceding to clonic jerking. The sudden contraction of large muscle groups might cause a child to be thrown to the ground.
+LDDB:32.07.02 	Syncope / vaso vagal reflexes 	Decreased cerebral perfusion, caused by low blood pressure and culminating in loss of consciousness.
+LDDB:32.10.02 	Prominent occiput 	A bulging (posteriorly) of the occiput.
+LDDB:32.16.01 	Cerebellar ataxia / intention tremor 	A wide-based unsteady gait, titubation, an abnormal finger-nose test with increasing tremor as the nose or finger is reached.
+LDDB:32.17.04 	Diplegia 	Weakness of the legs, to a greater extent than that of the arms. Use with 'brisk reflexes'.
+LDDB:32.22.01 	Loss of pain sensation 	"Loss or dimunition of peripheral appreciation of pin prick. ""Is it sharp or blunt""?"
+LDDB:32.25.01 	EEG: focal / localised discharges 	These are discharges of spikes or sharp waves over a distinct area of the montage. Suggests localized pathology.
+LDDB:32.25.03 	EEG: generalised (poly)spikes / sharp waves 	There are synchronous (bilateral) discharges. See elsewhere for spike and wave complexes.
+LDDB:32.31.09 	Cerebellar hemisphere hypoplasia 	Use if vermis is normal. If not, add vermis in separate box. Try, if dissatisfied, to use the two together as either/or.
+LDDB:32.32.10 	Polymicrogyria 	Another result of a neuronal migration defect resulting in many, small gyri. There are separate entries for 'lissencephaly/pachygyria' and 'neuronal migration defects (mild), but be flexible, use in various combinations when necessary.
+LDDB:32.32.14 	Dandy-Walker malformation 	A fourth ventricle malformation characterised by atresia of the foramina of Luschka and Magendi and a cystic malformation of the midline cerebellar structures.
+LDDB:34.01.00 	Skin, general abnormalities 	Skin, general abnormalities
+LDDB:34.03.07 	Nevi or lentigines 	"These include, epidermal nevi, melanocytic nevi and pigmented nevi. Lentigines are small, brown or black, round lesions (1-2mm in diameter) darker , with more uniform pigmentation, than freckles (ephelides). See also codes for ""Haemangiomas""."
+LDDB:34.04.02 	Capillary haemangioma 	"This term is used for a ""port wine"", ""salmon patch"" or any cutaneous vascular lesion consisting of a dense network of capillaries."
+HP:0000035 	Abnormality of the testis 	Abnormality of the testis
+HP:0000049 	Shawl scrotum 	A condition in which the upper scrotal skin rises over the base of the penis.
+HP:0000212 	Gingival overgrowth 	`Hyperplasia` (MPATH:134) of the `gingiva` (FMA:59762, that is, a thickening of the soft tissue overlying the alveolar ridge. The degree of thickening ranges from involvement of the interdental papillae alone to gingival overgrowth covering the entire tooth crown.
+HP:0000238 	Hydrocephalus 	Hydrocephalus is an active distension of the ventricular system of the brain resulting from inadequate passage of CSF from its point of production within the cerebral ventricles to its point of absorption into the systemic circulation.
+HP:0000252 	Microcephaly 	Occipito-frontal (head) circumference (OFC) less than -3 standard deviations compared to appropriate, age matched, normal standards (Ross JJ, Frias JL 1977, PMID:9683597). Alternatively, decreased size of the `cranium` (FMA:46565).
+HP:0000262 	Turricephaly 	Tall head relative to width and length.
+HP:0000303 	Mandibular prognathia 	Abnormal prominence of the `chin` (FMA:46495) related to `increased length` (PATO:0000573) of the `mandible` (FMA:52748).
+HP:0000319 	Smooth philtrum 	Flat skin surface, with no ridge formation in the central region of the upper lip between the nasal base and upper vermilion border.
+HP:0000320 	Bird-like facies 	Bird-like facies
+HP:0000341 	Narrow forehead 	Width of the forehead or distance between the frontotemporales is more than two standard deviations below the mean (objective); or apparently narrow intertemporal region (subjective).
+HP:0000347 	Micrognathia 	`Developmental hypoplasia` (MPATH:10060) of the `mandible` (FMA:52748).
+HP:0000448 	Prominent nose 	Distance between subnasale and pronasale more than two standard deviations above the mean, or alternatively, an apparently increased anterior protrusion of the nasal tip.
+HP:0000484 	Hyperopic astigmatism 	A form of astigmatism in which one meridian is hyperopic while the one at a right angle to it has no refractive error.
+HP:0000646 	Amblyopia 	Reduced visual acuity that is uncorrectable by lenses in the absence of detectable anatomic defects in the eye or visual pathways. Ambylopia can result from visual deprivation during the critical period of development of visual abilities which lasts to about the age of 8 years. Thus, ambylopia can result from strabismus, anisometropia, or high hypermetropia in there is a failure to form a focused image in one or both eyes.
+HP:0000716 	Depression 	A condition characterized by pervasive dysphoric mood, loss of interests, and inability to experience pleasure.
+HP:0001002 	Decreased subcutaneous fat 	Decreased subcutaneous fat
+HP:0001172 	Abnormality of the thumb 	An anomaly of the `thumb`(FMA:24938).
+HP:0001195 	Single umbilical artery 	Single umbilical artery (SUA) is the absence of one of the two umbilical arteries surrounding the fetal bladder and in the fetal umbilical cord.
+HP:0001249 	Intellectual disability 	Subnormal intellectual functioning which originates during the developmental period. Intellectual disability, previously referred to as mental retardation, has been defined as an IQ score below 70.
+HP:0001256 	Intellectual disability, mild 	Mild intellectual disability is defined as an intelligence quotient (IQ) in the range of 50-69.
+HP:0001264 	Spastic diplegia 	Spasticity (neuromuscular hypertonia) primarily in the muscles of the legs, hips, and pelvis.
+HP:0001310 	Dysmetria 	A type of `ataxia` (HP:0001251) characterized by the inability to carry out movements with the correct range and motion across the plane of more than one joint related to incorrect estimation of the distances required for targeted movements.
+HP:0001319 	Neonatal hypotonia 	Muscular hypotonia (abnormally low muscle tone) manifesting in the neonatal period.
+HP:0001342 	Cerebral hemorrhage 	`Hemorrhage` (MPATH:119) into the parenchyma of the `brain` (FMA:50801).
+HP:0001369 	Arthritis 	Inflammation of a joint.
+HP:0001409 	Portal hypertension 	`Increased pressure` (PATO:0001576) in the `portal vein` (FMA:66645).
+HP:0001454 	Abnormality of the upper arm 	Abnormality of the upper arm
+HP:0001463 	Autosomal dominant with variable expression and incomplete penetrance 	Autosomal dominant with variable expression and incomplete penetrance
+HP:0001508 	Failure to thrive 	Failure to thrive (FTT) refers to a child whose physical growth is substantially below the norm.
+HP:0001511 	Intrauterine growth retardation 	An abnormal restriction of fetal growth with fetal weight below the tenth percentile for gestational age.
+HP:0001640 	Cardiomegaly 	`Increased size` (PATO:0000586) of the `heart` (FMA:7088).
+HP:0001655 	Patent foramen ovale 	Failure of the foramen ovale to seal postnatally, leaving a potential conduit between the left and right cardiac atria.
+HP:0001680 	Coarctation of aorta 	Coarctation of the aorta is a narrowing or constriction of a segment of the aorta.
+HP:0001876 	Pancytopenia 	An abnormal reduction in numbers of all blood cell types (red blood cells, white blood cells, and platelets).
+HP:0001928 	Abnormality of coagulation 	An abnormality of the process of `blood coagulation` (GO:0007596). That is, altered ability or inability of the blood to clot.
+HP:0001999 	Abnormal facial shape 	An abnormal morphology (form) of the face or its components.
+HP:0002067 	Bradykinesia 	Bradykinesia literally means slow movement, and is used clinically to denote a slowness in the execution of movement (in contrast to hypokinesia, which is used to refer to slowness in the initiation of movement).
+HP:0002075 	Dysdiadochokinesis 	A type of `ataxia` (HP:0001251) characterized by the impairment of the ability to perform rapidly alternating movements, such as rhythmically tapping the fingers on the knee, generally related to a cerebellar lesion.
+HP:0002092 	Pulmonary hypertension 	Pulmonary hypertension is defined as a mean pulmonary artery pressure greater than 25 mm Hg during rest (normal level, 10 mm Hg) or greater than 30 mm Hg during exercise (normal level, 15 mm Hg), as determined with right heart catheterization.
+HP:0002123 	Generalized myoclonic seizures 	Seizures with sudden, brief (< 100 msec) involuntary single or multiple contraction(s) of muscles(s) or muscle groups of variable topography (axial, proximal limb, distal).
+HP:0002170 	Intracranial hemorrhage 	`Hemorrhage` (MPATH:119) occurring within the `skull` (FMA:46565).
+HP:0002206 	Pulmonary fibrosis 	Replacement of normal lung tissues are progressively replaced by fibroblasts and collagen.
+HP:0002286 	Fair hair 	A lesser degree of hair pigmentation than would otherwise be expected.
+HP:0002297 	Red hair 	Red hair
+HP:0002465 	Poor speech 	Poor speech
+HP:0002538 	Abnormality of the cerebral cortex 	An abnormality of the `cerebral cortex` (FMA:61830).
+HP:0002705 	High, narrow palate 	The presence of a high and narrow palate.
+HP:0002983 	Micromelia 	The presence of abnormally small extremities.
+HP:0003287 	Abnormality of mitochondrial metabolism 	Abnormality of mitochondrial metabolism
+HP:0003593 	Infantile onset 	Onset of signs or symptoms of disease between 28 days to one year of life.
+HP:0004209 	Clinodactyly of the 5th finger 	Clinodactyly refers to a bending or curvature of the `fifth finger` (FMA:24949) in the radial direction (i.e., towards the 4th finger).
+HP:0004324 	Increased body weight 	Increased body weight
+HP:0004469 	Chronic bronchitis 	Chronic inflammation of the bronchi.
+HP:0006919 	Abnormal aggressive, impulsive or violent behavior 	Abnormal aggressive, impulsive or violent behavior
+HP:0007105 	Infantile encephalopathy 	Infantile encephalopathy
+HP:0007651 	Ectropion of lower eyelids 	Ectropion of lower eyelids
+HP:0007728 	Congenital miosis 	Abnormal (non-physiological) constriction of the pupil of congenital onset.
+HP:0007946 	Narrow palpebral fissure, unilateral 	Narrow palpebral fissure, unilateral
+HP:0007968 	Persistent hyperplastic primary vitreous 	A failure of regression of the hyaloid vessel, which supplies the primary vitreous during embryogenesis and normally regresses in the third trimester of pregnancy, leading to a particular form of posterior cataract. This condition is known as Persistent Hyperplastic Primary Vitreous (PHPV).
+HP:0009759 	Neck pterygia 	Pterygia affecting the neck.
+HP:0009779 	3-4 toe syndactyly 	`Syndactyly` (HP:0001159) with fusion of toes three and four.
+HP:0009800 	Maternal diabetes 	Maternal diabetes can either be a gestational, mostly type 2 diabetes, or a type 1 diabetes. Essential is the resulting maternal hyperglycemia as a non-specific teratogen, imposing the same risk of congenital malformations to pregnant women with both type 1 and type2 diabetes.
+HP:0010952 	Mild fetal ventriculomegaly 	A kind of `ventriculomegaly` (HP:0002119) occurring in the fetal period and usually diagnosed by prenatal ultrasound. Cerebral ventriculomegaly is defined by atrial measurements 10 mm or more. Mild ventriculomegaly (MVM) is defined as measurements between 10 and 15 mm. Measurements are obtained from an axial plane at the level of the thalamic nuclei just below the standard image to measure the BPD (pmid:16100637).
+HP:0011015 	Abnormality of blood glucose concentration 	An abnormality of the concentration of `glucose` (CHEBI:17234) in the `blood` (FMA:9670).
+HP:0011120 	Saddle nose 	A depression of the dorsum of the nose with loss of nasal tip support and definition, shortened (vertical) nasal length, overrotation of the nasal tip, and retrusion of the nasal spine and caudal septum.
+HP:0011146 	Dialeptic seizures 	Seizures characterized by impaired consciousness.
+HP:0011220 	Prominent forehead 	Forward prominence of the entire forehead, due to protrusion of the frontal bone.
+HP:0100021 	Cerebral palsy 	Cerebral palsy describes a group of permanent disorders of the development of movement and posture, causing activity limitation, that are attributed to nonprogressive disturbances that occurred in the developing fetal or infant brain. The motor disorders of cerebral palsy are often accompanied by disturbances of sensation, perception, cognition, communication, and behaviour, by epilepsy, and by secondary musculoskeletal problems.
+HP:0100738 	Abnormal eating behavior 	Abnormal eating behavior
+HP:0100765 	Abnormality of the tonsils 	An abnormality of the `tonsils` (FMA:9609).
+HP:0100807 	Long fingers 	The middle finger is more than 2 SD above the mean for newborns 27 to 41 weeks EGA or above the 97th centile for children from birth to 16 years of age AND the five digits retain their normal length proportions relative to each other (i.e., it is not the case that the middle finger is the only lengthened digit), or, Fingers that appear disproportionately long compared to the palm of the hand.
+HP:0100851 	Abnormal emotion/affect behavior 	An abnormality of emotional behaviour.
+LDDB:01.01.00 	Muscular build, general abnormalities 	If this category is chosen, all forms of muscular build are selected.
+LDDB:01.02.03 	High birth weight (> 90th centile) 	As judged by gestational age. See elsewhere for 'advanced bone-age' which might be present.
+LDDB:01.03.00 	Thin or slender build, general abnormalities 	If this feature is used all categories of 'thin' will be selected.
+LDDB:02.01.03 	Short stature, short limbs 	This is disproportionate short stature ie., the trunk is normal but the limbs are short. Note under 'upper' and 'lower' limbs, there are other categories of 'proportionate short arms' and' legs', etc.
+LDDB:02.02.01 	Tall stature, proportionate 	Increase in height above 2SD, for age. The increase in height involves both the trunk and the limbs.
+LDDB:04.01.00 	Hair, sparse etc., general abnormalities 	Encompasses all categories of thin hair. Difficult in very young children as hair growth is variable in speed and luxuriance. Beware in children, especially those with learning difficulties, who pull out their hair, or lose it by rubbing against the pillow.
+LDDB:04.01.02 	Sparse hair / alopecia areata 	Either generally sparse, or patches of sparse hair.
+LDDB:04.02.02 	Fine hair 	Fine or thin to the touch. Seen sometimes in conjunction with sparse depigmented hair. Use together when appropriate.
+LDDB:04.02.04 	Kinky / curly hair (including pili torti) 	Pili torti refers to the twisting of hair through 180 degrees on its own axis. This gives a spangled or beaded appearance. This feature also includes abnormally (for the family) curly hair as in Noonan syndrome, although histologically the hair might be normal.
+LDDB:04.04.03 	Unusual hair whorl / pattern 	A double whorl, or an eccentrically placed whorl. Use with caution as normal variation is great.
+LDDB:04.04.05 	Frontal upsweep / cowlick 	Literally as if a cow had licked the frontal hair and it stayed in an upward sweep from the forehead.
+LDDB:04.04.06 	Localized hirsutism 	Patchy area of hairiness. If there is an underlying pigmented, raised skin lesion (see under SKIN - 'pigmented'), use both in same box when necessary.
+LDDB:05.01.01 	Prominent glabella 	The glabella is the most prominent point in the plain between the eyebrows (the word means 'smooth part').
+LDDB:05.02.06 	Sloping forehead 	Sloping backwards from bottom to top. Often seen in cases of 'true microcephaly'. If that is the case use both features in the same box.
+LDDB:06.00.00 	EARS 	EARS
+LDDB:06.01.04 	Deficient ear cartilage 	On palpation the ear is soft and floppy.
+LDDB:06.08.02 	Attached ear lobule 	Where the lobule is attached posteriorly to the skin behind the ear.
+LDDB:06.10.00 	Middle ear, general abnormalities 	Middle ear, general abnormalities
+LDDB:07.01.07 	Prominent eyes / proptosis 	Bulging, prominent, exopthalmic eyes. Eyes which appear too big for the socket.
+LDDB:07.02.03 	Rieger anomaly 	Hypoplasia of the anterior iris stroma, accompanied by strands which run from the iris to Schwalbe's line (the posterior limit of Descemet membrane) and posterior embryotoxin (abnormal thickening of Schwalbe's line).
+LDDB:07.04.05 	Macrocornea / megalocornea 	In adulthood the diameter should be 11.7mm and this is attained by 2 years of age. Macrocornea is a diameter of > 13mm.
+LDDB:07.05.01 	Anophthalmia 	An absent eye although there is often a tiny cystic remnant. There might be a spectrum between anophthalmia and microphthalmia, so try using both in the same box if necessary.
+LDDB:07.09.00 	Optic disc and nerve, general abnormalities 	Anything wrong with nerve or disc.
+LDDB:07.12.01 	Blue sclera 	An important marker for collagen disorders, but deceptive in young babies and easy to falsely diagnose if the baby is wearing blue. Take the baby to the window to view.
+LDDB:07.13.00 	Vision, general abnormalities 	Includes all the features under 'Vision'
+LDDB:07.13.02 	Blindness 	It is better to use a feature which indicates the cause - if known.
+LDDB:07.14.01 	Vitreous, abnormal 	Unspecified abnormality. Might be better to use 'Vitreous - general'
+LDDB:08.00.00 	EYES, ASSOCIATED STRUCTURES 	EYES, ASSOCIATED STRUCTURES
+LDDB:08.03.08 	Thickened / oedematous eyelids 	Thickened, swollen, fluid filled.
+LDDB:08.04.01 	Blocked / absent nasolacrimal duct 	There is a failure of the lacrimal system to connect to the nasal mucosa. The duct might be blocked, or is absent.
+LDDB:08.05.01 	Almond shaped palpebral fissures 	In the shape of an almond nut. Said to be typical of Prader-Willi syndrome, but common in any type of obesity and it is very non-specific.
+LDDB:08.05.02 	Blepharophimosis / blepharospasm 	Small eye openings. The aperture is reduced along all planes. In blepharospasm there is forceful, bilateral eye closure.
+LDDB:08.05.06 	Wide palpebral fissures 	Wide from side to side. The fissure appears to disappear around the corner of the face.
+LDDB:09.01.00 	Nose, general abnormalities 	Anything contained in the subdivisions viewed by clicking the +.
+LDDB:09.03.02 	High / prominent nasal bridge 	A raised bridge (that part of the nose between the eyes). The nose appears particularly straight with a high take off.
+LDDB:09.07.04 	Overhanging / depressed nasal tip 	An alteration in shape. Flat or curved down.
+LDDB:10.00.00 	FACE 	FACE
+LDDB:10.03.01 	Dimpled or grooved chin 	A mid-line groove as in Kirk Douglas..
+LDDB:10.05.03 	Cleft mandible 	Mostly a midline cleft. Use in same box as 'cleft of the chin' when appropriate.
+LDDB:10.05.04 	Prominent mandible 	Might clinically present with prognathism. A jutting jaw.
+LDDB:11.01.02 	Down-turned corners of the mouth 	The corners of the mouth normally end in the horizontal position.
+LDDB:11.03.00 	Philtrum, general abnormalities 	The central area between the upper lip and nose. The philtral pillars with funnel in between are centrally placed.
+LDDB:11.03.01 	Long philtrum 	A long area between the columella of the nose and margin of the upper lip.
+LDDB:11.03.03 	Short philtrum 	Short area between columella and upper lip margin.
+LDDB:11.03.04 	Simple / absent philtrum 	A featureless philtrum. A smooth philtrum.
+LDDB:11.04.02 	Midline cleft upper lip 	Often a small V-shaped indentation in the mid-line.
+LDDB:12.04.08 	Cleft uvula 	Mostly a midline cleft. Might have the same significance as a cleft palate. Consider using them together in the same box.
+LDDB:12.05.00 	Tongue, general abnormalities 	Anything wrong with the tongue.
+LDDB:13.01.01 	Advanced tooth eruption / development 	Excludes neonatal teeth, but the teeth erupt much faster than the norm which is: 6 months - lower central incisors. 7 months - upper central incisors. 8 months - upper lateral incisors. 9 months - lower lateral incisors. 12 months - first molars. 18 months - canines.
+LDDB:13.01.02 	Dental caries 	Use with care. Might or might not be significant. It usually is not.
+LDDB:13.01.06 	Enamel abnormalities 	The visible tooth - the crown - is covered by very hard calcified tissue- the enamel. An abnormality results in excessive wear and possible erosion down to gum level.
+LDDB:13.01.09 	Malocclusion of teeth 	The teeth in upper and lower jaws do not close with any precision on one another.
+LDDB:13.01.16 	Wide-spaced teeth 	This might be seen in conjunction with small teeth (use in same box when necessary). Also to be used for a wide gap between the central incisors (diastema).
+LDDB:14.01.06 	Speech defect / dysarthria 	Any of the following: slurring speech, staccato speech, stutter etc. It is an articulation defect.
+LDDB:16.01.02 	Kyphosis 	A bent spine. Flexion angulation of the spine over many segments.
+LDDB:16.01.03 	Lordosis 	"Literally meaning ""bent backwards"". Mostly seen in the lumbar region and it is an exaggeration of the normal hollowed out configuration in that area."
+LDDB:16.03.11 	Spina bifida occulta 	A closed spina bifida. One with a skin covering. Note separate features for 'sacral dimple' and under 'Back and Spine', - 'spinal dysraphism'. If appropriate use together in same box as this is a continuum.
+LDDB:17.02.05 	Premature development of breasts 	Note that there is a feature 'early puberty in the female' under 'GENITALIA'.
+LDDB:17.03.01 	Absent or hypoplastic clavicles 	Absent or small. Short clavicles might be felt, or seen, when they end in a knob.
+LDDB:17.04.02 	Eventration of diaphragm 	Poor muscularisation of the diaphragm, results in a dome-shaped bulge into the thorax. The bulge is covered by peritoneum.
+LDDB:17.05.02 	Anomalous venous return 	The pulmonary veins might connect to the right atrium. Also called TAPVC. (Total Anomalous Pulmonary Venous Connections), if all the veins connect anomalously, and PAPVC, if partially.
+LDDB:17.05.04 	Aortic stenosis 	Occurs in 3-6% of congenital heart disease. Includes congenital bicuspid valve which may become stenotic and supra valvar aortic stenosis.
+LDDB:17.05.08 	Congenital cardiac anomaly, unspecified 	Rather use 'Heart - general'.
+LDDB:17.05.13 	Hypoplastic left heart 	There is a continuum of anomalies from hypoplasia, of the aorta, aortic valve, mitral valve, to hypoplasia of the left ventricle and left atrium.
+LDDB:17.05.15 	Mitral incompetence 	Might be an underlying mitral leaflet cleft. Mild incompetence is common in women.
+LDDB:17.05.18 	Pericarditis (non-constrictive) 	See elsewhere for 'constrictive pericarditis'. A pericardial effusion is included here.
+LDDB:17.05.22 	Single ventricle 	"This includes 3 types: 1) Single left ventricle with or without an outlet infundibular chamber 2) Single right ventricle 3) Undifferentiated ventricle See also ""hypoplastic left heart""."
+LDDB:17.06.04 	Lung cysts 	These include bronchogenic cysts (derived from the trachea or main bronchi), and alveolar cysts, or a combination.
+LDDB:17.06.06 	Respiratory abnormality, unspecified 	A general category. Might think of rather using 'lung-general'.
+LDDB:17.06.08 	Trachea or laryngeal anomalies 	A general category which includes, atresia, webs, stenoses, fistulae.
+LDDB:17.09.00 	Ribs, general abnormalities 	Anything wrong with the ribs.
+LDDB:17.10.02 	High or Sprengel shoulder 	An elevation of the scapula which might be hypoplastic. About 1/3 have a omo-vertebral bone (a bony/cartilaginous mass attaching the scapula to the spinous processes of the cervical vertebrae).
+LDDB:18.01.00 	Abdomen, general abnormalities 	Anything wrong with the abdomen.
+LDDB:18.01.02 	Small bowel atresia / absence / obstruction / short 	Includes multiple obstructions or ileal or jejunal atresias. There is a separate code for 'duodenal atresia'.
+LDDB:18.01.06 	Dysphagia - see CRANIAL NERVES 	Dysphagia - see CRANIAL NERVES
+LDDB:18.01.13 	Intestinal malrotation 	The normal rotation and fixation of the gut does not take place. The caecum might end up in the epigastrium to the left of the duodenum. Volvulus might occur.
+LDDB:18.02.00 	Anus, general abnormalities 	Anything wrong with the anus.
+LDDB:18.02.01 	Anal atresia / stenosis 	"Also includes ""covered"" anus and imperforate anus."
+LDDB:18.05.00 	Liver / biliary system, general abnormalities 	Anything wrong with the liver.
+LDDB:18.08.00 	Spleen, general abnormalities 	Any abnormality of the spleen.
+LDDB:18.08.04 	Large spleen 	By palpation or imaging.
+LDDB:20.03.03 	Hydrocele of testis 	Fluid filled scrotal sac.
+LDDB:20.03.05 	Large penis 	There are measurements, but most dysmorphologists will assess visually and listen to the parents.
+LDDB:20.03.09 	Hypoplastic scrotum 	"Underdevelopment of the scrotal sac, mostly secondary to the absence of a testis. Use in the same box in conjunction with ""absent testis"" or ""undescended testis""."
+LDDB:21.01.00 	Urinary tract, general abnormalities 	Urinary tract, general abnormalities
+LDDB:21.02.02 	Bladder exstrophy 	The bladder opens widely onto the surface of the abdomen. The mucosa of the pelvic urethra is exposed.
+LDDB:21.03.01 	Renal agenesis 	An absent (or near absent) kidney.
+LDDB:21.03.05 	Ectopic / supernumerary kidneys 	Ectopy is an abnormal positioning of the kidney. It might be pelvic or thoracic in its displacement. Supernumerary kidneys may have a separate ureter and kidney
+LDDB:21.03.09 	Nephritis or nephropathy 	Glomerulonephritis, nephronophthisis, etc.
+LDDB:21.03.11 	Small kidneys 	Small, normal looking kidneys. There is a separate code for 'renal dysplasia'.
+LDDB:21.03.12 	Renal stones / calcification 	There is a separate code for 'bladder stones'. It might be better to use both in same box. Use this code for nephrocalcinosis.
+LDDB:21.03.13 	Renal tumours (including Wilms') 	Any tumour including nephroblastomatosis.
+LDDB:21.04.01 	Dilated ureters / ureteral atresia 	Absent, or dilated for whatever reason.
+LDDB:22.01.10 	Proportionate short arms 	Use with caution as an X-ray might show a short humerus, or radius or ulna (see other codes for hypoplasia of those bones). Use together in the same box when necessary.
+LDDB:22.03.03 	Hypoplastic or absent humerus 	Small, malformed humerus.
+LDDB:22.04.01 	Cubitus valgus 	An increased carrying angle at the elbow. This is normally greater in females than in males.
+LDDB:22.05.02 	Hypoplastic or absent radii 	A small, poorly formed radius.
+LDDB:22.05.07 	Hypoplastic or absent ulna 	An absent, or short, malformed ulna.
+LDDB:23.01.07 	Small hands 	Tiny, delicate hands.
+LDDB:23.03.03 	Abnormal palmar creases 	Any abnormality of the larger creases of the palm. See below for single palmar crease.
+LDDB:23.03.05 	Deep palmar creases 	An increase in the depth of the normal hand creases. Seen in chromosomal mosaicism or as the consequence of clenched hands or oedema in utero.
+LDDB:23.04.00 	Fingers, general abnormalities 	A wide category for any finger abnormality.
+LDDB:23.04.09 	Macrodactyly 	Often a large (huge) single finger, but all or some might be involved. Always compare with other hand.
+LDDB:23.04.12 	Post-axial polydactyly of fingers 	The extra digits arise from the little finger side.
+LDDB:23.04.13 	Radial deviation of fingers 	The fingers are swept to the radial side.
+LDDB:23.04.22 	Ulnar deviation of fingers 	The term 'wind swept' is used to describe the deviation of the fingers (they seem blown to the ulnar side).
+LDDB:23.05.00 	Metacarpals, general abnormalities 	Anything wrong with the metacarpals.
+LDDB:23.05.01 	Absent metacarpals 	Mostly in association with absence of elements of the fingers.
+LDDB:23.06.01 	Absent phalanges 	One or more is very rudimentary, or absent.
+LDDB:23.07.01 	Absent or hypoplastic thumbs 	Seen alone or as part of radial aplasia.
+LDDB:23.07.07 	Short thumb 	Difficult feature - use together with hypoplastic thumb and make sure that the so-called shortness is not due to proximal placing.
+LDDB:24.01.03 	Broad nails 	Might be seen with underlying polydactyly (especially pre-axial). If very broad, an X-ray might be appropriate.
+LDDB:24.01.12 	Thin / brittle nails 	Might be a sign of a 'nail dystrophy'. If so use both in the same box. Mostly diagnosed (they break easily) on history.
+LDDB:25.02.04 	Perthe's / dysplastic hip 	An avascular necrosis of the capital femoral epiphyses and the femoral head. Better known as Legg-Calve-Perthe hip.
+LDDB:25.03.05 	Short femur 	You might want to use this with hypoplasia (see above).
+LDDB:25.07.02 	Hypoplastic or absent tibia 	Under-developed or absent tibia.
+LDDB:26.01.01 	Flat arches of feet 	A foot is flat when the medial side is too close to the ground, or the heel is unduly everted. Also called pes planus.
+LDDB:26.01.11 	Large feet 	Feet that seem too big (shoe size is helpful).
+LDDB:26.01.16 	Small feet 	Small for age (and shoe size if you are not a measurer).
+LDDB:26.01.17 	Wide feet 	Wide from side to side. A flat foot can look wide, so use with caution.
+LDDB:26.02.02 	Broad hallux 	A broad big toe (which sometimes deviates outwards).
+LDDB:26.02.04 	Long hallux 	Beware that this is not an impression caused by shortness of the other toes.
+LDDB:26.03.00 	Metatarsals, general abnormalities 	Metatarsals, general abnormalities
+LDDB:26.03.01 	Abnormal / absent metatarsals 	Missing metatarsals. Also fusion or accessory epiphyses.
+LDDB:26.03.02 	Metatarsus valgus 	The foot anterior to the navicular is abducted.
+LDDB:26.05.00 	Toes, general abnormalities 	This includes everything under 'toes'.
+LDDB:26.05.01 	Absent toes 	Might be in the spectrum of hypoplastic toes, so use both in the same box.
+LDDB:26.05.04 	Hypoplastic toes (including phalanges) 	Use with 'absent' if necessary. Might be a spectrum.
+LDDB:26.05.06 	Post-axial polydactyly of toes 	An extra toe or toes on the 5th digit side of the foot. It might just be a nubbin of tissue.
+LDDB:26.05.08 	Short toes 	Might be difficult to differentiate from 'hypoplasia'. If this is the case, use both together in the same box.
+LDDB:27.01.00 	Blood vessels, general abnormalities 	Blood vessels, general abnormalities
+LDDB:28.02.05 	Neuroblastoma 	One of the tumours of neural crest origin.
+LDDB:28.04.05 	Hypophosphataemia 	Phosphate depletion for what-ever reason.
+LDDB:29.01.08 	Anaemia / red cell abnormalities 	All abnormalities of red blood cells. See also acanthocytosis.
+LDDB:31.01.01 	Joint contractures (including arthrogryposis) 	Fixed flexion or sometimes extension of multiple joints.
+LDDB:31.01.05 	Joint stiffness / arthritis 	Joints which are stiff, but there are no true contractures.
+LDDB:32.02.00 	PRENATAL PROBLEMS, general abnormalities 	PRENATAL PROBLEMS, general abnormalities
+LDDB:32.02.01 	Maternal illness / infection / substance ingestion 	Very little data on this, but note the ever increasing 'fetal teratogen' syndromes under 'Syndromes'.
+LDDB:32.02.02 	Amniotic fluid / placenta abnormal 	Includes polyhydramnios and oligohydramnios.
+LDDB:32.02.03 	Fetal movement - weak 	Use with care, but important if mother is an experienced observer.
+LDDB:32.02.06 	small for dates - see BUILD 	small for dates - see BUILD
+LDDB:32.03.01 	Asphyxia / fetal distress 	Use with 'respiratory distress in the neonate' in the same box.
+LDDB:32.03.05 	feeding problems - see ABDOMEN 	feeding problems - see ABDOMEN
+LDDB:32.04.06 	Dyspraxia / apraxia including gait apraxia 	Inability to initiate a task like walking. despite the fact that power and co-ordination in the sitting position are quite normal.
+LDDB:32.05.06 	Irritability / emotional lability 	An emotional incontinence. Easily irritated (aroused by a trivial stimulus).
+LDDB:32.05.08 	Tics 	A brief, repetitive, co-ordinated movement such as repetitive blinking, grunting or sniffing.
+LDDB:32.05.14 	Echolalia 	The involuntary, repetition of words or phrases spoken to the patient by the examiner, often in conjunction with defective comprehension.
+LDDB:32.06.01 	Neonatal seizure 	Seizures which occur during the first 30 days of life.
+LDDB:32.06.07 	Complex partial seizure 	Seizures that begin as simple and partial (focal) but which then progress to move to the opposite side with loss of consciousness.
+LDDB:32.06.08 	Simple partial seizure 	Focal seizures without loss of consciousness.
+LDDB:32.06.16 	Crying / dacrystic seizures 	Also known as dacrystic seizures. These are epileptic seizures in which the patient weeps.
+LDDB:32.07.04 	Cyclic vomiting 	This might be a migraine equivalent, and consists of episodic vomiting (plus photophobia or pallor).
+LDDB:32.07.13 	Intermittent fever 	Of no obvious cause.
+LDDB:32.07.19 	Intermittent stiffness or rigidity 	Bouts of stiffness. Might overlap with 'paroxysmal dystonia' - use together when necessary in the same box.
+LDDB:32.07.20 	Intermittent tremor at rest 	Involuntary, rhythmic, oscillations of a limb or the whole body at rest. See under 'Extrapyramidal' for 'tremor' - use both in same box when uncertain.
+LDDB:32.08.03 	Dolichocephaly / scaphocephaly 	A long head in the anterior-posterior plane (mostly due to premature fusion of the sagittal suture). In scaphocephaly the calvaria is long and narrow. Like the keel of an up-turned boat.
+LDDB:32.14.02 	N.III, IV, VI / ophthalmoplegia plus supranuclear 	Includes abducens, trochlear and superior oblique palsies or any combination of the three. A conjugate failure of upward gaze and an internuclear ophthalmoplegia (jerk nystagmus in the abducting eye and and failure to adduct the other eye) are included
+LDDB:32.14.04 	N.VII abnormal / palsy (nerve only) 	Mostly a lower motor neuron palsy. Most of the upper motor neuron lesions will be part of a hemiplegia. There is a separate code for a myopathic face under 'muscle'.
+LDDB:32.14.12 	ptosis of eye-lids - see EYES (GENERAL) 	ptosis of eye-lids - see EYES (GENERAL)
+LDDB:32.15.02 	Cerebellar / horizontal / congenital nystagmus 	This is the common jerk nystagmus, but cerebellar nystagmus which might be pendular is included.
+LDDB:32.16.02 	Truncal ataxia / non-cerebellar ataxia 	Some ataxias in the literature are not typically cerebellar, but use this alone with caution. Rather combine with cerebellar tremor if uncertain.
+LDDB:32.17.02 	Hemiplegia, including intermittent hemiplegia 	Weakness on one side of the body. Includes alternating hemiplegia.(first one side, then the other)
+LDDB:32.17.03 	Paraplegia 	Weakness of both lower limbs. Use with, spasticity and brisk reflexes.
+LDDB:32.17.05 	Quadriplegia 	All four limb are spastic (more commonly than flaccid) and more or less equally affected. Mostly symmetrical. Use in same box as 'brisk reflexes'.
+LDDB:32.17.07 	Mirror movements 	Symmetrica involuntary movement of the opposite side of the body. If the hand is opened on one side, the other hand opens. All good neurologists tell the story of the sailor climbing a rope to the top of the mast, who turns to wave to his girl friend with one hand.
+LDDB:32.18.03 	Athetosis 	A slow, writhing, involuntary movement. The word means deprived of a fixed place. Use freely with chorea and dystonia in the same box when they seem to overlap.
+LDDB:32.18.04 	Dystonia 	Or torsion dystonia. Abnormal fixed, extrapyramidal postures. Almost a more permanent athetosis (unusually slow and persistent). Because these movement types are seldom pure, use with for instance, chorea and athetosis in same box where necessary.
+LDDB:32.18.05 	Tremor at rest / postural excl. paroxysmal 	Often a pill-rolling rest tremor. Note under 'ataxia' for intention tremor.
+LDDB:32.19.16 	Inability to relax muscles (not myotonia) 	Increased muscle tone, not pyramidal, nor extrapyramidal and without evidence of myotonia.
+LDDB:32.25.23 	EEG: characteristic pattern of EEG / CN claimed 	This includes all typical lesions such as that seen in Angelman's syndrome.
+LDDB:32.31.04 	Leukodystrophy / demyelination / dysmyelination 	Use for any significant 'white matter change' on neuro-imaging
+LDDB:32.31.06 	Myelination / absent or delayed 	Poor or absent myelination. Don't use unless the delay in myelination is fairly gross!
+LDDB:32.31.17 	Cortical hemiatrophy 	Atrophy involving one hemisphere.
+LDDB:32.31.20 	Lissencephaly / pachygyria - see NEURORADIOL CONT. 	Lissencephaly / pachygyria - see NEURORADIOL CONT.
+LDDB:32.32.03 	Arnold-Chiari malformation 	Includes type 1 (the adult form) and type 2 (the infantile type). There is a caudal displacement of the brainstem, cerebellum and more. There might be impaction in the foramen magnum.
+LDDB:32.32.05 	Holoprosencephaly / arhinencephaly 	An undivided frontal lobe. Might be alobar (a single ventricle, small cerebellum and no lobes), semilobar (the cortex is partially divided in the midline) or even milder, i.e. lobar. Look elsewhere for 'agenesis of the corpus callosum'. Arhinencephaly is the absence of the olfactory tracts.
+LDDB:32.32.11 	Schizencephaly 	A split brain, the result of a neuronal migration defect causing the cerebral mantle not to form. Mostly in region of the Sylvan fissure and especially of importance to geneticists if bilateral.
+LDDB:32.32.18 	Absence of septum pellucidum 	The absence of the thin membrane between the fornix and the corpus callosum. If the corpus callosum is absent, rather use that feature.
+LDDB:32.32.24 	Large (mega) cisterna magna 	A large (and I mean large) reservoir or space behind the transverse fissure of the cerebellum. Seen in conjunction with cerebellar atrophy or hypoplasia. When that is the case use 'cerebellar hemisphere/vermis hypoplasia', in preference.
+LDDB:32.33.07 	neonatal brain bleeding - see NEONATAL PROBLEM 	neonatal brain bleeding - see NEONATAL PROBLEM
+LDDB:32.35.14 	Gliosis (diffuse) 	An excess of astroglia in response to a lesion of the CNS. In this case it involves a widespread area of the cerebrum.
+LDDB:32.36.00 	MITOCHONDRIA general 	Any abnormality (excludes abnormal looking under EM).
+LDDB:33.01.08 	Osteoporosis 	The bone is thin, porotic, and will later bow or collapse. Radiologically there is a reduction in density.
+LDDB:33.01.11 	Delayed bone age 	Diagosed on X-ray using standard tables showing the age of appearance of the carpal bones, and other ossification centres.
+LDDB:33.02.17 	Short bones 	Be careful as there are separate features for hypoplastic humerus, tibia, femur, etc. Use other features with this in the same box where appropriate.
+LDDB:34.01.02 	Cutis laxa 	Extra, redundant skin which tends to hang in folds.
+LDDB:34.01.03 	Cutis marmorata 	A reticulated, bluish mottling of the skin which is common in the newborn and may persist for weeks or months. It is a physiological response to the cold and consists of the dilatation of capillaries and small veins.
+LDDB:34.01.13 	Oedema (including hydrops) 	Localized fluid retention to severe generalized retention. See also codes for oedema of hands, feet, etc.
+LDDB:34.04.03 	Cavernous haemangioma 	They are deep-seated strawberry lesions with little penetration of the overlying skin. They contain large dilated spaces. They are bluish-red with an ill-defined border.
+LDDB:34.05.04 	Lipomata 	These are benign tumours consisting of mature fat cells.
